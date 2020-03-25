@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="126"
+   viewBox="67.28 241.15 132.29166 33.337501"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Logo KECG.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6790"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6788" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6704">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6700" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop6702" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6666"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6664" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6626"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6624" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6574"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6572" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6264"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       id="linearGradient6258"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6256" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-941.55397 : -96.104839 : 1"
+       inkscape:vp_y="0 : 803.05637 : 0"
+       inkscape:vp_z="298.9649 : 23.33568 : 1"
+       inkscape:persp3d-origin="-84.633775 : 52.487553 : 1"
+       id="perspective3731" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6704"
+       id="radialGradient6706-4"
+       cx="-243.61208"
+       cy="779.85919"
+       fx="-243.61208"
+       fy="779.85919"
+       r="115.44713"
+       gradientTransform="matrix(4.2775263,0,0,4.0651333,-664.46924,-2043.4074)"
+       gradientUnits="userSpaceOnUse" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6732"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.2775263,0,0,4.2908623,1159.68,-2226.7781)"
+       x="-359.0592"
+       y="670.48535">
+      <meshrow
+         id="meshrow6744">
+        <meshpatch
+           id="meshpatch6742">
+          <stop
+             id="stop6734"
+             style="stop-color:#ffffff;stop-opacity:1"
+             path="c 76.9648,0  153.93,0  230.894,0" />
+          <stop
+             id="stop6736"
+             style="stop-color:#800080;stop-opacity:1"
+             path="c 0,72.9159  0,145.832  0,218.748" />
+          <stop
+             id="stop6738"
+             style="stop-color:#ffffff;stop-opacity:1"
+             path="c -76.9648,0  -153.93,0  -230.894,0" />
+          <stop
+             id="stop6740"
+             style="stop-color:#800080;stop-opacity:1"
+             path="c 0,-72.9159  0,-145.832  0,-218.748" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3232521"
+     inkscape:cx="250"
+     inkscape:cy="43.133846"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-to-guides="true"
+     showguides="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="-0.2"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="-6.3837824e-16"
+     viewbox-width="70.12"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.0467126,-451.72456)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3761"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3763"><rect
+           id="rect3765"
+           width="71.428574"
+           height="80.000015"
+           x="165.71428"
+           y="705.37683" /></flowRegion><flowPara
+         id="flowPara3767"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3769"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3771"><rect
+           id="rect3773"
+           width="77.142845"
+           height="129.30792"
+           x="300"
+           y="502.51968" /></flowRegion><flowPara
+         id="flowPara3775"></flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.32887695,0,0,0.66810284,24.145058,-230.3605)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3795-3"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3791-8"><rect
+           y="633.94824"
+           x="62.857143"
+           height="145.71428"
+           width="105.71429"
+           id="rect3789-5" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:50px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT'"
+         id="flowPara3793-3">CG</flowPara></flowRoot>    <a
+       id="a6830" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6750"
+       style="font-style:normal;font-weight:normal;font-size:53.33333588px;line-height:3.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,69.326713,670.71207)"><flowRegion
+         id="flowRegion6752"><rect
+           id="rect6754"
+           width="200"
+           height="130"
+           x="10"
+           y="39.763779" /></flowRegion><flowPara
+         id="flowPara6756">KECG</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.42504501px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a0892c;fill-opacity:0.8894472;fill-rule:nonzero;stroke:none;stroke-width:0.26458338"
+       x="68.415726"
+       y="724.70404"
+       id="text6760"><tspan
+         sodipodi:role="line"
+         id="tspan6758"
+         x="68.415726"
+         y="724.70404"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.42504501px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a0892c;fill-opacity:0.8894472;fill-rule:nonzero;stroke-width:0.26458338">KECG</tspan></text>
+  </g>
+</svg>
